@@ -8,7 +8,9 @@ verbs = ['is', 'was', 'likes', 'brings']
 
 
 def spew():
-    print "%s %s %s %s" % (random.choice(pronouns),
-                           random.choice(nouns),
-                           random.choice(verbs),
-                           random.choice(adjectives))
+    print "%s %s %s %s" % (
+        random.choice(pronouns),
+        random.choice(nouns),
+        random.choice(verbs),
+        random.choice(adjectives)
+    )

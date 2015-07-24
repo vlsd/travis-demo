@@ -1,5 +1,7 @@
 # travis-demo
 
+[![Build Status](https://travis-ci.org/vlsd/travis-demo.svg?branch=master)](https://travis-ci.org/vlsd/travis-demo)
+
 During this interactive session, we will (i) create a python package, (ii)
 write a few simple unit tests, and (iii) automate testing with [Travis
 CI](https://travis-ci.org/). Clone this repo and come prepared to write a v
